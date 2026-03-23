@@ -7,3 +7,4 @@
 /tests/cache
 /.env
 /.phpunit.result.cache
+/.phpunit.cache
